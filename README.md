@@ -4,13 +4,21 @@ A React-based facial expression recognition web app that detects and displays yo
 
 ## 🖼️ Demo Screenshots
 
-| Expression Detection | Emoji Feedback | Voice Toggle & Themes |
-|----------------------|----------------|------------------------|
-| ![1](./public/assets/1.png) | ![2](./public/assets/2.png) | ![3](./public/assets/3.png) |
+### Expression Detection
+![1](./public/assets/1.png)
 
-| Confidence Meter | Expression History |
-|------------------|--------------------|
-| ![4](./public/assets/4.png) | ![5](./public/assets/5.png) |
+### Emoji Feedback
+![2](./public/assets/2.png)
+
+### Voice Toggle & Themes
+![3](./public/assets/3.png)
+
+### Confidence Meter
+![4](./public/assets/4.png)
+
+### Expression History
+![5](./public/assets/5.png)
+
 
 ## 🚀 Features
 
