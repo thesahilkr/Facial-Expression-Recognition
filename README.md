@@ -2,6 +2,16 @@
 
 A React-based facial expression recognition web app that detects and displays your emotions in real-time using your webcam. It shows matching emojis, visualizes confidence, maintains expression history, and can even speak the detected emotion aloud.
 
+## 🖼️ Demo Screenshots
+
+| Expression Detection | Emoji Feedback | Voice Toggle & Themes |
+|----------------------|----------------|------------------------|
+| ![1](./public/assets/1.png) | ![2](./public/assets/2.png) | ![3](./public/assets/3.png) |
+
+| Confidence Meter | Expression History |
+|------------------|--------------------|
+| ![4](./public/assets/4.png) | ![5](./public/assets/5.png) |
+
 ## 🚀 Features
 
 - 🎥 Real-time face and expression detection using `face-api.js`
