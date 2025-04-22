@@ -19,6 +19,18 @@ A React-based facial expression recognition web app that detects and displays yo
 ### Expression History
 ![5](./public/assets/5.png)
 
+### Light Mode UI
+![6](./public/assets/6.png)
+
+### Dark Mode UI
+![7](./public/assets/7.png)
+
+### Start Camera Button
+![8](./public/assets/8.png)
+
+### Stop Camera State
+![9](./public/assets/9.png)
+
 
 ## 🚀 Features
 
